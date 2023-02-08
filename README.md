@@ -7,8 +7,8 @@ Passionated about technology, coding and being creative.
 - ⚛️ &nbsp;Frontend:&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
   ![CSS](https://img.shields.io/badge/CSS3-0A1A2F?style=flat&logo=css3&logoColor=1572B6)
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-0A1A2F?style=flat&logo=html5&logoColor=E34F26)
+  ![SASS](https://img.shields.io/badge/Sass-0A1A2F?style=flat&logo=sass&logoColor=CC6699)
   ![VBA](https://img.shields.io/badge/-VBA-0A1A2F?style=flat&logo=vba)
 - 🐱 &nbsp;VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
