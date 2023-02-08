@@ -25,7 +25,7 @@ Passionated about technology, coding and being creative.
 </a>
 <br />
 <a href="https://github.com/46lemonlime">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={46lemonlime}&theme=blue-green" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=46lemonlime&theme=blue-green" />
 </a>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=46lemonlime alt=46lemonlime/> </p>
