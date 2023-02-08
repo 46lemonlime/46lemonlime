@@ -9,7 +9,7 @@ Passionated about technology, coding and being creative.
   ![CSS](https://img.shields.io/badge/CSS3-0A1A2F?style=flat&logo=css3&logoColor=1572B6)
   ![HTML](https://img.shields.io/badge/HTML5-0A1A2F?style=flat&logo=html5&logoColor=E34F26)
   ![SASS](https://img.shields.io/badge/Sass-0A1A2F?style=flat&logo=sass&logoColor=CC6699)
-  ![VBA](https://img.shields.io/badge/-VBA-0A1A2F?style=flat&logo=vba)
+  ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 - 🐱 &nbsp;VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
