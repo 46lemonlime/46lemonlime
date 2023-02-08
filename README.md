@@ -6,9 +6,9 @@ Passionated about technology, coding and being creative.
 
 - ⚛️ &nbsp;Frontend:&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
-  <!-- ![CSS](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
-  ![HTML](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
-  ![VBA](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript) -->
+  ![CSS](https://img.shields.io/badge/-CSS-0A1A2F?style=flat&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML-0A1A2F?style=flat&logo=javascript)
+  ![VBA](https://img.shields.io/badge/-VBA-0A1A2F?style=flat&logo=javascript)
 - 🐱 &nbsp;VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
