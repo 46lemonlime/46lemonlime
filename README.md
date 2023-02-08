@@ -6,7 +6,7 @@ Passionated about technology, coding and being creative.
 
 - ⚛️ &nbsp;Frontend:&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
-  ![CSS](https://img.shields.io/badge/-CSS-0A1A2F?style=flat&logo=css3&logoColor=264DE4)
+  ![CSS](https://img.shields.io/badge/-CSS-0A1A2F?style=flat&logo=css3&logoColor=f5f5f5)
   ![HTML](https://img.shields.io/badge/-HTML-0A1A2F?style=flat&logo=html5)
   ![VBA](https://img.shields.io/badge/-VBA-0A1A2F?style=flat&logo=vba)
 - 🐱 &nbsp;VCS: &nbsp;
