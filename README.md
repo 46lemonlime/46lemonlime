@@ -19,7 +19,7 @@ Passionated about technology, coding and being creative.
 
 <br/>
 
-<a href="https://github.com/46lemonlime>
+<a href="https://github.com/46lemonlime">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=46lemonlime&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
 </a>
 <br />
