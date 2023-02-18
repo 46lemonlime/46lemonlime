@@ -4,6 +4,8 @@ Passionated about technology, coding and being creative.
 
 ### 🛠 &nbsp;Tech Stack
 
+- 🖥️ &nbsp;Backend:&nbsp;
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 - 👀 &nbsp;Frontend:&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
   ![CSS](https://img.shields.io/badge/CSS3-0A1A2F?style=flat&logo=css3&logoColor=1572B6)
