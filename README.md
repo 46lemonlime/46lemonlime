@@ -1,6 +1,6 @@
 ### Hi 👋 , I'm Jeison Sanchez
 
-Passionated about technology, coding and being creative.
+Passionated about technology, coding and being creative.  I'm always looking for ways to expand my knowledge and put my creativity to work. If you need help with any of these topics, feel free to reach out to me!
 
 ### 🛠 &nbsp;Tech Stack
 
