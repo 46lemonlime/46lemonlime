@@ -20,8 +20,6 @@ Passionated about technology, coding and cybersecurity.  I'm always looking for 
 - 🎨 &nbsp;Design:&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 
-<br/>
-
 ### 🛡️ &nbsp;Cyber-Security
 - 👤 &nbsp;[HackTheBox](https://app.hackthebox.com/users/1451973):&nbsp; Pentesting
 
