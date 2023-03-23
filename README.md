@@ -23,7 +23,7 @@ Passionated about technology, coding and cybersecurity.  I'm always looking for 
 <br/>
 
 ### 🛡️ &nbsp;Cyber-Security
-- 👤 &nbsp;[HackTheBox](https://app.hackthebox.com/users/1451973):&nbsp;
+- 👤 &nbsp;[HackTheBox](https://app.hackthebox.com/users/1451973):&nbsp; Pentesting
   
 
 <br/>
