@@ -23,7 +23,7 @@ Passionated about technology, coding and cybersecurity.  I'm always looking for 
 ### 🛡️ &nbsp;Cyber-Security
 - 🔴 &nbsp;RedTeam:&nbsp; Pentesting, scripting and pwning!
 [HackTheBox](https://app.hackthebox.com/users/1451973), [TryHackMe](https://tryhackme.com/p/lemonlime)
-- 🔵 &nbsp;BlueTeam:&nbsp;
+- 🔵 &nbsp;BlueTeam:&nbsp; Incident Response, Operational Security and Threat Hunting
 
 
 <br/>
