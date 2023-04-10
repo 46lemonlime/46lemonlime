@@ -20,7 +20,8 @@ Passionated about technology, coding and cybersecurity.  I'm always looking for 
 - 🎨 &nbsp;Design:&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 
-### 🛡️ &nbsp;Cyber-Security (Just for fun)
+### 🛡️ &nbsp;Cyber-Security
+(Just for fun)
 - 🔴 &nbsp;RedTeam:&nbsp; Pentesting, scripting and pwning!<br />
 [HackTheBox](https://app.hackthebox.com/users/1451973), [TryHackMe](https://tryhackme.com/p/lemonlime)
 - 🔵 &nbsp;BlueTeam:&nbsp; Incident Response, Operational Security and Threat Hunting!<br />
