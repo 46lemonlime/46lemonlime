@@ -7,8 +7,8 @@ Passionated about technology, coding and cybersecurity.  I'm always looking for 
 - 🖥️ &nbsp;Backend:&nbsp;
   ![C](https://img.shields.io/badge/C-0A1A2F?style=flat&&logo=c&logoColor=00599C)
 - 👀 &nbsp;Frontend:&nbsp;
-  ![HTML](https://img.shields.io/badge/HTML5-0A1A2F?style=flat&logo=html5&logoColor=E34F26)
-  ![CSS](https://img.shields.io/badge/CSS3-0A1A2F?style=flat&logo=css3&logoColor=1572B6)
+  ![HTML](https://img.shields.io/badge/HTML5-0A1A2F?style=flat&logo=html&logoColor=E34F26)
+  ![CSS](https://img.shields.io/badge/CSS3-0A1A2F?style=flat&logo=css&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0A1A2F?style=flat&logo=tailwind-css&logoColor=38B2AC)
   ![React](https://img.shields.io/badge/React-0A1A2F?style=flat&logo=react&logoColor=61DAFB)
