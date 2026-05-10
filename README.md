@@ -31,12 +31,13 @@ Passionated about technology, coding and cybersecurity.  I'm always looking for 
 
 <br/>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
 <a href="https://github.com/46lemonlime">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=46lemonlime&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=46lemonlime&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=46lemonlime&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<br />
-<a href="https://github.com/46lemonlime">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=46lemonlime&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
-</a>
+</p>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=46lemonlime alt=46lemonlime/> </p>
